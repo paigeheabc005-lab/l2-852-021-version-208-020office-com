@@ -1,0 +1,13 @@
+静态电影网站已生成。
+
+主要内容：
+- index.html：首页，包含 Hero 首屏、搜索入口、分类入口、推荐区和排行榜区块。
+- categories.html：分类总览页。
+- category/：12 个独立分类页，所有影片卡片均可进入详情页。
+- ranking.html：排行榜页。
+- search.html：搜索/筛选页。
+- movies/：2000 个影片详情页。
+- assets/media/sample.m3u8：本地可播放 HLS 示例源，详情页播放器已绑定；如有真实 m3u8，可替换详情页中的 data-hls-src。
+
+图片说明：
+上传包中没有 1.jpg 到 150.jpg。页面已按要求引用顶级目录 1.jpg 到 150.jpg；将同名图片放到网站根目录即可显示。
